@@ -1,7 +1,14 @@
 .App {
   text-align: center;
 }
+.col-5 {
+  overflow: scroll;
+  height: 100vh;
+}
 
+ul{
+  list-style-type: lower-greek;
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
